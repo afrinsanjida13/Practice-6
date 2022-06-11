@@ -1,0 +1,47 @@
+different types of css selector
+	
+	tag
+	element
+	
+	id
+		- unique- one time used in a particular project- roll no. 1
+	class
+		- common work- class 1 stand up
+
+
+css power
+	id - most powerful
+	but 'class' is mostly used
+
+measurement unit
+	px pt em rem %
+	mostly used- px, rem, %
+	% - very useful regarding responsiveness
+
+primary color- red, green, blue
+
+color
+	solid - red
+	hex - #000000 - mostly used
+	rgb - rgb(00,00,00)
+	rgba - opacity - a - (0-1)
+	hsl
+
+margin-padding
+
+	margin: 100px: top, bottom, left, right
+	margin: 100px 50px: top-bottom, left-right
+	margin: 100px 50px 30px: top, left-right, bottom
+	margin: 100px 50px 30px 10px: top, right, bottom, left
+
+
+	padding: 100px: top, bottom, left, right
+	padding: 100px 50px: top-bottom, left-right
+	padding: 100px 50px 30px: top, left-right, bottom
+	padding: 100px 50px 30px 10px: top, right, bottom, left
+
+box model concept
+	margin
+	border
+	padding
+	text/content

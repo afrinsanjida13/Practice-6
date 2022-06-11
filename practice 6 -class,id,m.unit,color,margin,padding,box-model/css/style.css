@@ -1,0 +1,118 @@
+h1{
+	color: green;
+}
+
+.border{
+	border: 3px dashed green;
+}
+
+#bg{
+	background-color: yellow;
+}
+
+.bg{
+	background-color: pink;
+}
+
+
+#h4{
+	color: red;
+}
+
+.h4{
+	color: blue;
+}
+
+h4{
+	color: green;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: blue;
+}
+
+.box{
+	width: 200pt;
+	height: 100pt;
+	background-color: pink;
+}
+
+.box{
+	width: 20em;
+	height: 10em;
+	background-color: pink;
+}
+
+.box{
+	width: 20rem;
+	height: 10rem;
+	background-color: pink;
+}
+
+.box{
+	width: 20%;
+	height: 10rem;
+	background-color: black;
+}
+
+.box{
+	width: 20%;
+	height: 10rem;
+	background-color: #000000;
+}
+
+.box{
+	width: 20%;
+	height: 10rem;
+	background-color: rgb(0,0,0);
+}
+
+.box{
+	width: 20%;
+	height: 10rem;
+	background-color: rgba(0,0,0,.5);
+}
+
+.box{
+	width: 150px;
+	height: 150px;
+}
+
+.red{
+	background-color: red;
+}
+
+.black{
+	background-color: black;
+	margin: 100px;
+}
+.black{
+	background-color: black;
+	margin: 100px 50px;
+}
+.black{
+	background-color: black;
+	margin: 100px 50px 30px;
+}
+.black{
+	background-color: black;
+	margin: 100px 50px 30px 10px;
+}
+.black{
+	background-color: black;
+	margin-top: 10px;
+}
+.black{
+	background-color: black;
+	padding: 100px;
+}
+.black{
+	background-color: black;
+	border: 10px solid yellow;
+}
+.red{
+	background-color: red;
+	border-top: 10px solid yellow;
+}
